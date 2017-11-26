@@ -41,3 +41,4 @@ ${CL_ROOT}/design/cl_id_defines.vh
 ${CL_ROOT}/design/axi_bus_t.sv
 ${CL_ROOT}/design/reg_file.sv
 ${CL_ROOT}/design/cl_dram_perf.sv
+
